@@ -1,0 +1,55 @@
+body {
+    background-color: bisque;
+    margin: 0px;
+}
+
+header {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+}
+
+main {
+    width: 96%;
+    padding: 20px;
+}
+
+article {
+    float: left;
+}
+
+.card {
+    background-color: antiquewhite;
+    padding: 40px;
+    margin: 10px 20px;
+    border-radius: 10%;
+    width: 85%;
+}
+
+aside {
+    float: right;
+}
+
+.card1 {
+    background-color: antiquewhite;
+    padding: 40px;
+    margin: 10px 20px;
+    border-radius: 10%;
+    width: 43%;
+}
+
+
+
+footer {
+    background-color: antiquewhite;
+    color: black;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+
+.fix {
+    clear: both;
+}
